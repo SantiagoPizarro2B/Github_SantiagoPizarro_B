@@ -8,9 +8,15 @@ In my studies, I've engaged in diverse projects covering concept art, 3D modelin
 I've worked extensively with industry-standard software such as Maya and Substance Painter, and I have some experience with Unreal Engine.
 
 Here are some images of the programs I've used:
-- ![Maya](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Ffree-download-autodesk-maya-logo--812336851555812441%2F&psig=AOvVaw3aoJqaN4piiFaU5fQTvNHH&ust=1700240403037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCX-5z_yIIDFQAAAAAdAAAAABAD)
-- ![Substance Painter]([link_to_substance_painter_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fsubstance-3d-painter_5968543&psig=AOvVaw2gl31fB38GBH_kT4-ayBJu&ust=1700240430571000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICLu6r_yIIDFQAAAAAdAAAAABAE))
-- ![Unreal Engine]([link_to_unreal_engine_image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/512px-Unreal_Engine_Logo.svg.png))
+- ![Maya](https://i.pinimg.com/564x/a6/a4/bf/a6a4bfb514e96ecf6fdbb6cce692cc48.jpg)
+- ![Substance Painter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWHIa_QVVdglhgcb4cxw5xv3tbkbZ3L-3eAGaEgG3TQm8JvSgCyvaZVUEAcPLOnx2zn8&usqp=CAU)
+- ![Unreal Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/512px-Unreal_Engine_Logo.svg.png)
 
 # Portfolio
 You can find my portfolio on [ArtStation](https://www.artstation.com/santiagopizarro7). I'm currently enhancing it, and the showcased projects are from class assignments. In the future, I plan to upload personal projects to which I dedicate more care.
+
+![Zbrush Project](https://cdna.artstation.com/p/assets/images/images/055/785/024/large/santiago-pizarro-santiagopizarro1.jpg?1667756941)
+![3D project](https://github.com/SantiagoPizarro2B/Github_SantiagoPizarro_B/assets/145477847/7ae24fe5-bba5-413b-b3ce-168b1a96bb7d)
+![](https://github.com/SantiagoPizarro2B/Github_SantiagoPizarro_B/assets/145477847/b57b53ce-cbcf-441d-bd26-0737bce25ac6)
+![](https://cdna.artstation.com/p/assets/images/images/061/798/732/large/santiago-pizarro-vistoso-1.jpg?1681668124)
+![](https://github.com/SantiagoPizarro2B/Github_SantiagoPizarro_B/assets/145477847/97741c5c-2394-4e18-9559-c39f849b9663)
